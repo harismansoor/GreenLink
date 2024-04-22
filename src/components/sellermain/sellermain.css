@@ -1,0 +1,11 @@
+.sellersignup input{
+border-bottom: 1px solid #ccc;
+color: black;
+}
+.sellersignup input:focus{
+    outline: none;
+    border-bottom: 1px solid black;
+}
+.sellersignup .modal-body{
+    padding: 10px 50px;
+}

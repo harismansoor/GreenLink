@@ -1,0 +1,4 @@
+1- Download the zip file and open with visual studio
+2- Install npm in the project
+3- run "npm run dev" in terminal
+4- Set up your Metamask account

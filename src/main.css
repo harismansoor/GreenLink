@@ -1,0 +1,13 @@
+.button3{
+    font-family: "Montserrat";
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 14px;
+    letter-spacing: 0em;
+    text-align: center;
+    background: black !important;
+    padding: 10px;
+    border-radius: 20px;
+    color: white;
+    
+}
